@@ -1,4 +1,4 @@
-Company and Email Enrichment API NodeJs
+# Company and Email Enrichment API NodeJs
 
 
 This is the official Node client library for the [Tomba.io](https://tomba.io) Email Finder API,
